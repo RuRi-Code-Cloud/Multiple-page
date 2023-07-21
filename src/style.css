@@ -1,0 +1,32 @@
+body {
+  background-image: url(https://www.distanthillsspeanbridge.co.uk/wp-content/uploads/2023/02/scottish-highland-cow-switzerland-2022-11-16-18-07-05-utc5.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+a {
+  display: flex;
+  text-decoration: none !important;
+  text-align: center;
+}
+
+.info {
+  display: flex;
+  justify-content: space-around;
+}
+.homepage {
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  font-size: 60px !important;
+  text-align: center;
+  padding: 20px;
+}
+p {
+  padding: 50px;
+  font-size: 20px;
+  background-color: rgba(0, 0, 0, 0.411);
+}
